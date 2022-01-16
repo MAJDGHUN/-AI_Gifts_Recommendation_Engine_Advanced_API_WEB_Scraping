@@ -1,0 +1,16 @@
+﻿false, I hate
+false, Women hates
+false, He dislikes
+false, I dislikes
+false, She dislikes
+false, mens hates
+
+true, She loves
+true, He likes
+true, She enjoy
+true, Men loves
+true, I love
+
+
+
+
